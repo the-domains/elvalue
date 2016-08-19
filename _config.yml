@@ -6,9 +6,9 @@ color:
   saturation: 0.27646052022464573
   rhythmicContrast: 0.6875423949677497
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#4E5563'
+    - '#ADFCFE'
+    - '#72D1F8'
+    - '#5BA6D2'
+    - '#FFFFFF'
 name: ELValue
