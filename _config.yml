@@ -1,0 +1,14 @@
+layout_spectrum: 0.07928600278683007
+typography_spectrum: 0.6829583484213799
+color:
+  brandStrength: 0.6622598369140178
+  lightness: 0.49596229824237525
+  saturation: 0.27646052022464573
+  rhythmicContrast: 0.6875423949677497
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: ELValue
