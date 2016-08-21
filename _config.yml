@@ -11,6 +11,10 @@ color:
     - '#5BA6D2'
     - '#FFFFFF'
 layout_spectrum: 0.07928600278683007
-name: ELValue
+name: ELValue Solutions
+navigation:
+  - name: Support
+    id: 02f0bb07-68fc-4ba0-8400-5e6e34f63092
+    type: content
 title: ELPos
 description: 'Ang-ELPos for your business '
